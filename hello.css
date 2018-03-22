@@ -46,6 +46,12 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-family: "Covered By Your Grace", cursive;
+  font-size: 2rem;
+  text-align: center;
+}
+
 main img {
   display: block;
   width: 12rem;
